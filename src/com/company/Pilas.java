@@ -23,7 +23,7 @@ public class Pilas {
         while (temp!=null){
             datos[i]=temp.getValor();
             temp=temp.getProx();
-            i+
+            //i+
         }
         System.out.println(datos[i]);
     }
